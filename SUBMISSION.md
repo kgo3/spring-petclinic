@@ -28,8 +28,12 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 -5 pts Your Travis CI dashboard showing a successful build after your change of the group ID.
 
+![Screen Capture #4](https://github.com/kgo3/spring-petclinic/Build_success2.jpg)
+
 
 -5 pts The section of the POM file showing the coordinates after you’ve commented them out.
+
+
 
 
 -5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
