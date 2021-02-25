@@ -51,7 +51,11 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Screen Capture #8](https://github.com/kgo3/spring-petclinic/pom_fixed.jpg)
 
 
--5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
+-5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed. 
+
+Note that my initial commit of the Pom file failed after I removed the comments, so this was Build #5.
+
+![Screen Capture #9](https://github.com/kgo3/spring-petclinic/Build_success3.jpg)
 
 
 -5 pts Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
