@@ -60,5 +60,6 @@ Note that my initial commit of the Pom file failed after I removed the comments,
 
 -5 pts Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
 
-![Screen Capture #10]((https://github.com/kgo3/spring-petclinic/blob/master/figures/readme_success.jpg)  
+![Screen Capture #10](https://github.com/kgo3/spring-petclinic/blob/master/figures/readme_success.jpg)  
+
 
