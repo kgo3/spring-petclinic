@@ -33,16 +33,22 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 -5 pts The section of the POM file showing the coordinates after you’ve commented them out.
 
-
+![Screen Capture #5](https://github.com/kgo3/spring-petclinic/pom_comment_out.jpg)
 
 
 -5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 
+![Screen Capture #6](https://github.com/kgo3/spring-petclinic/build_fail.jpg)
+
 
 -5 pts Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
 
+![Screen Capture #7](https://github.com/kgo3/spring-petclinic/readme_fail.jpg)
+
 
 -5 pts The section of the POM file showing the coordinates after you’ve fixed them.
+
+![Screen Capture #8](https://github.com/kgo3/spring-petclinic/pom_fixed.jpg)
 
 
 -5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
