@@ -13,7 +13,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 -5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 
-![Screen Capture #1](https://github.com/kgo3/spring-petclinic/blob/master/figures/Fork_success1.JPG)
+![Screen Capture #1](https://github.com/kgo3/spring-petclinic/blob/master/figures/Fork_success.JPG)
 
 
 -5 pts Your Travis CI dashboard showing a successful first build.
