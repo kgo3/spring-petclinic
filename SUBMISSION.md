@@ -4,17 +4,17 @@ Kristina Gorzynski   #1863660.
 Docker
 -5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-(https://github.com/kgo3/spring-petclinic)
+https://github.com/kgo3/spring-petclinic/blob/master/Dockerfile
 
 
 -5 pts  Your running docker instance as shown by a ps command.
 
-![Screen Capture #1](https://github.com/kgo3/spring-petclinic/blob/master/figures/Fork_success.JPG)
+![Screen Capture #1](https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_ps.jpg)
 
 
 -5 pts  Your browser accessing the main page of the website from your local container.
 
-
+![Screen Capture #2] (https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_success.jpg)
 
 
 DOCKER COMPOSE - MYSQL ONLY
