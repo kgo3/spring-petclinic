@@ -14,7 +14,7 @@ https://github.com/kgo3/spring-petclinic/blob/master/Dockerfile
 
 -5 pts  Your browser accessing the main page of the website from your local container.
 
-![Screen Capture #2] (https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_success.jpg)
+![Screen Capture #2](https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_success.jpg) 
 
 
 DOCKER COMPOSE - MYSQL ONLY
