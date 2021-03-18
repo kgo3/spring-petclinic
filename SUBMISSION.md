@@ -21,12 +21,19 @@ DOCKER COMPOSE - MYSQL ONLY
 
 -5 pts  The output from the docker-compose up command.
 
+![Screen Capture #3](https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_c_output.jpg) 
 
 
 -5 pts  Your browser accessing the \Veterinarians" page of the website from your local container when you run the application from the host system.
 
+![Screen Capture #4](https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_c_success.jpg) 
+
 
 -5 pts  A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
+
+I have never used stack trace before, but this is the output when I run java -jar target/spring-petclinic-2.2.0.BUILD-SNAPSHOT.jar --spring.profiles.active=mysql
+
+![Screen Capture #5](https://github.com/kgo3/spring-petclinic/blob/master/docker_figures/docker_c_stack.jpg) 
 
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
