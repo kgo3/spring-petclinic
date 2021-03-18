@@ -34,5 +34,4 @@ services:
      ports:
        - "8484:8080/tcp"
      depends_on:
-       - mysql  
-	   
+       - mysql
