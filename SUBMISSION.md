@@ -40,6 +40,8 @@ DOCKER COMPOSE - APP SERVER AND MYSQL
 
 -5 pts  Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
 
+I wasn't sure whether to uncomment out the line spring.datasource.initialization-mode=always. I uncommented out the line because I couldn't get it to work without it. 
+
 https://github.com/kgo3/spring-petclinic/blob/master/docker-compose.yml
 
 
